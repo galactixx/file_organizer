@@ -1,2 +1,2 @@
 # file_organizer
-Short script to organize files from CLI
+Super simple and short CLI program to organize files in any directory.
