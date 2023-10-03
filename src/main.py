@@ -18,7 +18,7 @@ def _truncate_path(path: str) -> str:
 
 @click.command()
 @click.option('--path', type=click.Path(exists=True), prompt='Enter the path', help='The name of the path')
-def _path_organizer(path: str) -> None:
+def _file_organizer(path: str) -> None:
     """CLI for organizing files in a given directory by file type."""
 
     # instance of rich table & console
@@ -52,4 +52,4 @@ def _path_organizer(path: str) -> None:
         console.print(table)
 
 if __name__ == '__main__':
-    _path_organizer()
+    _file_organizer()

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: file-organizer
+Version: 0.0.10
+Summary: CLI program to organize files
+Home-page: https://github.com/galactixx/file_organizer
+Author: galactixx
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# file_organizer
+Super simple and short CLI program to organize files in any directory.

@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/file_organizer.egg-info/PKG-INFO
+src/file_organizer.egg-info/SOURCES.txt
+src/file_organizer.egg-info/dependency_links.txt
+src/file_organizer.egg-info/top_level.txt
